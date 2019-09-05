@@ -1,0 +1,11 @@
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\bin\Debug\netcoreapp2.1\CentralTendencyApp.deps.json
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\bin\Debug\netcoreapp2.1\CentralTendencyApp.runtimeconfig.json
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\bin\Debug\netcoreapp2.1\CentralTendencyApp.runtimeconfig.dev.json
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\bin\Debug\netcoreapp2.1\CentralTendencyApp.dll
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\bin\Debug\netcoreapp2.1\CentralTendencyApp.pdb
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\obj\Debug\netcoreapp2.1\CentralTendencyApp.csprojAssemblyReference.cache
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\obj\Debug\netcoreapp2.1\CentralTendencyApp.csproj.CoreCompileInputs.cache
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\obj\Debug\netcoreapp2.1\CentralTendencyApp.AssemblyInfoInputs.cache
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\obj\Debug\netcoreapp2.1\CentralTendencyApp.AssemblyInfo.cs
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\obj\Debug\netcoreapp2.1\CentralTendencyApp.dll
+C:\Users\Normandy\source\repos\CentralTendencyApp\CentralTendencyApp\obj\Debug\netcoreapp2.1\CentralTendencyApp.pdb
